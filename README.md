@@ -5,7 +5,7 @@ I'm a passionate developer who loves coding and solving problems. I'm currently 
 
 ## 🌐 Connect With Me
 Let's talk tech! Find me on:
-- [GitHub Profile Link](https://github.com/yourusername)
+- [GitHub Profile Link](https://github.com/CherotichBett)
 - 
 
 ## 📚 Fun Facts
